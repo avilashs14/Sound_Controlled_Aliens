@@ -1,0 +1,25 @@
+body {
+    background-color: darksalmon;
+    font-family: 'Roboto', sans-serif;
+}
+.div_header{
+color:black;
+background-color: white;
+}
+.main_class{
+    margin-top: 30px;
+}
+.copyright_footer {
+    color:gray;
+    width: 100%;
+    font-size: 20px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    text-shadow: 5px 5px 5px rgb(151,149,149);
+}
+.div_header p{
+    font-family: 'Sono', sans-serif;
+    letter-spacing: 2px;
+    color:dimgrey;
+}
